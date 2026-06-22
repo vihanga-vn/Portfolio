@@ -239,6 +239,7 @@ nav a:hover{
 }
 
 .about-card p{
+    font-size: 22px;
     margin-bottom: 1rem;
     color: #bdbdbd;
 }
@@ -247,7 +248,8 @@ nav a:hover{
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
-    margin-top: 2rem;
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
 }
 
 .skills span{
